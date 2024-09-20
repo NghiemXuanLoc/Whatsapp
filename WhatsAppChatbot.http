@@ -1,0 +1,6 @@
+@WhatsAppChatbot_HostAddress = http://localhost:5112
+
+GET {{WhatsAppChatbot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
